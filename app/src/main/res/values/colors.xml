@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00b3b3</color>
+    <color name="colorPrimaryDark">#009393</color>
+    <color name="colorAccent">#FF4081</color>
+    
+    <color name="gain">#6ABD0F</color>
+    <color name="loss">#D0021B</color>
+    <color name="chart">#00b3b3</color>
+    <color name="chart_fill">#5000b3b3</color>
+
+</resources>

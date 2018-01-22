@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="14px" viewBox="0 0 8 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_details</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="AQT_Mobile_Portfolios" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-350.000000, -356.000000)">
+        <g id="01" transform="translate(18.000000, 335.000000)" fill="#1D1D1B" fill-rule="nonzero">
+            <g id="icon_details" transform="translate(336.000000, 28.000000) rotate(-90.000000) translate(-336.000000, -28.000000) translate(329.000000, 24.000000)">
+                <path d="M12.8735664,0.153353878 L6.89841395,6.0799687 L0.919286414,0.149169598 C0.836228447,0.0667392731 0.727437155,0.0257333247 0.618645864,0.0257333247 C0.509854572,0.0257333247 0.401272495,0.0667392731 0.318214528,0.149169598 C0.152307808,0.313821033 0.152307808,0.580568912 0.318214528,0.745220347 L6.59045091,6.9661993 C6.63229372,7.0080421 6.69380264,7.04465456 6.74882593,7.06578517 C6.90573645,7.12478353 7.08294072,7.08817107 7.2019835,6.97038358 L13.4744291,0.749404628 C13.6403358,0.584753192 13.6403358,0.318005314 13.4744291,0.153353878 C13.3083132,-0.0110883432 13.0396824,-0.0110883432 12.8735664,0.153353878 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

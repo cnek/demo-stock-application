@@ -1,0 +1,40 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    defaultConfig {
+        applicationId "com.kenchow.demo.demostockapplication"
+        minSdkVersion 16
+        targetSdkVersion 26
+        versionCode 1
+        versionName "1.0"
+        //testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation rootProject.ext.contraintlayout
+    testImplementation rootProject.ext.junit
+    testImplementation rootProject.ext.truth
+
+    implementation rootProject.ext.butterknife
+    annotationProcessor rootProject.ext.butterknifeanno
+
+    implementation rootProject.ext.supportV7
+    implementation rootProject.ext.supportDesign
+    implementation rootProject.ext.rxjava
+    implementation rootProject.ext.rxandroid
+    implementation rootProject.ext.retrofit
+    implementation rootProject.ext.adapterrx
+    implementation rootProject.ext.gson
+    implementation rootProject.ext.okhttplog
+    implementation rootProject.ext.mpandroidchart
+
+}

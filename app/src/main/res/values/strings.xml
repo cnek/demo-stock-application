@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoStockApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="gain_loss">Today\'s Gain / Loss:</string>
+    <string name="last_share_price">LAST SHARE PRICE (USD)</string>
+    <string name="api_key">vKGgdEr6_4QpWu3dqaKx</string>
+</resources>
